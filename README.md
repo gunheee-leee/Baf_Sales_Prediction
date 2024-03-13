@@ -34,3 +34,7 @@ https://dacon.io/competitions/official/236129/overview/description
 ![image](https://github.com/gunheee-leee/Baf_Sales_Prediction/assets/143998370/aa96a35d-b6de-4f5c-9393-dbcdba754a92)
 ![image](https://github.com/gunheee-leee/Baf_Sales_Prediction/assets/143998370/2c98bf8c-9c77-4c7d-8fa4-95f4f7236346)
 ![image](https://github.com/gunheee-leee/Baf_Sales_Prediction/assets/143998370/4f4abfff-1861-475c-ad83-7d2d47ad2cd9)
+
+# 후기
+지금까지 데이터 분석하기에 좋게 정형화된 데이터들만 다루다 실제 실무에서 접할 수 있는 데이터 형식을 다뤄서 어려움이 있었지만 이상치 탐지 및 데이터 보정에 있어 더 많이 배울 수 있었던 것 같다.
+아쉬웠던 점은 도메인 지식을 더 활용해서 브랜드 언급량 데이터 같은 부분을 좀 더 잘 쓸 수 있을 것 같았는데 적극적으로 활용하지 못한 점이 아쉽다.
